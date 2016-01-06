@@ -1,0 +1,9 @@
+html {
+  background-color: #f2f2f2;
+  font-family: arial;
+}
+
+.container {
+  width: 60%;
+  margin: 0 auto;
+}
