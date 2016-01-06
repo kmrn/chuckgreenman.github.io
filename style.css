@@ -2,6 +2,16 @@ html {
   background-color: #f2f2f2;
   font-family: arial;
 }
+body {
+  margin: 0;
+}
+#bighead {
+  width: 100%;
+  background-color: #5BAD51;
+  color:white;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
 
 .container {
   width: 60%;
